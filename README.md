@@ -6,11 +6,11 @@ I strongly believe that effective manual testing requires an analytical mindset.
 
 ## Core Competencies & Tools
 
-- **Test Management & Bug Tracking:** Jira, Confluence, Qase
+- **Test Management & Bug Tracking:** Jira, Confluence, Browserstack, Redmine, 
 - **API & Network Testing:** Postman, Swagger, Chrome DevTools
 - **Security (AppSec):** Burp Suite (business logic vulnerability testing, request manipulation)
 - **Databases:** SQL
-- **Automation Basics & Scripting:** Python, Playwright
+- **Automation Basics & Scripting:** Python, Java
 
 ## Portfolio Structure
 
